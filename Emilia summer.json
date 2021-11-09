@@ -2,20 +2,20 @@
     "manifest": {
         "author": "Drown By Wind",
         "name": "Emilia summer",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "license": "©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©SEGA(セガ)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia%20summer.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/311904676390109184\/907039570997157908\/1636325477013.png",
         "blur_radius": 3,
-        "overlay_alpha": 43
+        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2020-9.png",
+        "overlay_alpha": 50
     },
     "fonts": {},
     "simple_colors": {
         "background": 285344003,
         "statusbar": 1779631896,
-        "active_channel": -2092928352,
+        "active_channel": -1170181472,
         "accent": -893606149,
         "background_secondary": 587792908
     },
