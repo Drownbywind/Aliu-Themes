@@ -1,7 +1,7 @@
 # Emilia summer theme
 
 ## Theme requirements and aspects
-- This theme needs full transparency
+- This theme needs full transparency!
 - Aspect ratio of this theme is 20:9
 
 Theme preview:
