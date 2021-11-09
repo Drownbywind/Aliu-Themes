@@ -8,8 +8,8 @@
     },
     "background": {
         "blur_radius": 3,
-        "overlay_alpha": 47,
-        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2016-9.png"
+        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2020-9.png",
+        "overlay_alpha": 50
     },
     "fonts": {},
     "simple_colors": {
