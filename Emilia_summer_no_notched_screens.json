@@ -4,7 +4,7 @@
         "name": "Emilia summer (16:9)",
         "version": "0.1.2",
         "license": "©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©SEGA(セガ)",
-        "updater": ""
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia_summer_no_notched_screens.json"
     },
     "background": {
         "blur_radius": 3,
