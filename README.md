@@ -1,4 +1,4 @@
-# Emilia_summer_thene
+# Emilia summer thene
 Theme image is from re:zero los game
 This thene needs full transparency
 Aspect ratio of this theme is 20:9
