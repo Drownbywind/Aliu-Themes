@@ -5,4 +5,4 @@
 - Aspect ratio of this theme are 20:9 and 16:9
 
 Theme preview:
-![Preview]()
+![Preview](https://github.com/Drownbywind/Emilia_summer_theme/raw/main/Preview.jpg)
