@@ -2,34 +2,33 @@
     "manifest": {
         "author": "Drown By Wind",
         "name": "Emilia summer (16:9)",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "license": "©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©SEGA(セガ)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia_summer_no_notched_screens.json"
     },
     "background": {
-        "blur_radius": 3,
         "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2016-9.png",
-        "overlay_alpha": 50
+        "overlay_alpha": 69
     },
     "fonts": {},
     "simple_colors": {
-        "background": -1727921917,
-        "statusbar": 1779631896,
         "active_channel": -1170181472,
-        "accent": -893606149,
-        "background_secondary": 587792908
+        "accent": -307911698
     },
     "colors": {
-        "primary_dark_400": -840774163,
+        "primary_dark_400": -859979277,
         "link": -747394083,
-        "primary_dark_100": -4092455,
-        "primary_dark_300": -421476366,
+        "primary_dark_100": -893284903,
+        "primary_dark_300": -422328334,
         "primary_dark_360": -741486593,
-        "primary_dark_200": -371990798
+        "primary_dark_200": -371990798,
+        "primary_dark_630": 671877652,
+        "primary_dark_600": 235538454,
+        "primary_dark_800": -1744830464,
+        "primary_dark_700": 234881024,
+        "primary_dark_900": -16777216,
+        "primary_dark_500": -16777216,
+        "primary_dark_660": 1679562033
     },
-    "drawable_tints": {
-        "gradient_transparent_colorbackgroundsecondary": -1303762344,
-        "drawable_overlay_category_dark": -885035627,
-        "drawable_notifications_badge_border_color_tabs_background": -1490546127
-    }
+    "drawable_tints": {}
 }
