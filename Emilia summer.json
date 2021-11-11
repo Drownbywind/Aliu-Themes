@@ -2,13 +2,13 @@
     "manifest": {
         "author": "Drown By Wind",
         "name": "Emilia summer",
-        "version": "0.1.4",
+        "version": "0.1.5",
         "license": "©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©SEGA(セガ)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia%20summer.json"
     },
     "background": {
-        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2020-9.png",
-        "overlay_alpha": 69
+        "overlay_alpha": 69,
+        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2020-9.jpg"
     },
     "fonts": {},
     "simple_colors": {

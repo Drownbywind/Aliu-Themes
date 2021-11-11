@@ -2,13 +2,13 @@
     "manifest": {
         "author": "Drown By Wind",
         "name": "Emilia summer (16:9)",
-        "version": "0.1.4",
+        "version": "0.1.5",
         "license": "©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©SEGA(セガ)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia_summer_no_notched_screens.json"
     },
     "background": {
-        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2016-9.png",
-        "overlay_alpha": 69
+        "overlay_alpha": 69,
+        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2016-9.jpg"
     },
     "fonts": {},
     "simple_colors": {
@@ -30,5 +30,6 @@
         "primary_dark_500": -16777216,
         "primary_dark_660": 1679562033
     },
-    "drawable_tints": {}
+    "drawable_tints": {},
+    "raws": {}
 }
