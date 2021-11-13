@@ -3,7 +3,8 @@
         "name": "Emilia summer (16:9)",
         "version": "0.1.8",
         "author": "Tueu loi#1156 (Drown By Wind)",
-        "license": "©re:zero los"
+        "license": "©re:zero los",
+        "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Emilia_summer_16_9.json"
     },
     "background": {
         "overlay_alpha": 69

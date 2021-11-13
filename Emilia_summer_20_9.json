@@ -3,10 +3,12 @@
         "author": "Tueu loi#1156 (Drown By Wind)",
         "name": "Emilia summer (20:9)",
         "version": "0.1.8",
-        "license": "©re:zero los"
+        "license": "©re:zero los",
+        "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Emilia_summer_20_9.json"
     },
     "background": {
-        "overlay_alpha": 69
+        "overlay_alpha": 69,
+        "url": "https:\/\/media.discordapp.net\/attachments\/311904676390109184\/907033062498500638\/1636323930504.jpg"
     },
     "fonts": {},
     "simple_colors": {
