@@ -7,7 +7,8 @@
         "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Emilia_summer_16_9.json"
     },
     "background": {
-        "overlay_alpha": 69
+        "overlay_alpha": 69,
+        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/emilia_summer_16_9.jpg"
     },
     "fonts": {},
     "simple_colors": {
