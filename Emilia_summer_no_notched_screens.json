@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "Emilia summer (16:9)",
-        "version": "0.1.6",
+        "version": "0.1.6.1",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia_summer_no_notched_screens.json",
         "author": "Tueu loi#1156 (Drown By Wind)",
         "license": "©re:zero los"
@@ -12,12 +12,12 @@
     },
     "fonts": {},
     "simple_colors": {
-        "active_channel": -1170181472,
+        "active_channel": 2136563807,
         "accent": -307911698
     },
     "colors": {
         "primary_dark_400": -859979277,
-        "link": -747394083,
+        "link": -632446225,
         "primary_dark_100": -893284903,
         "primary_dark_300": -422328334,
         "primary_dark_360": -741486593,
