@@ -1,0 +1,33 @@
+{
+    "manifest": {
+        "author": "Tueu loi#1156 (Drown By Wind)",
+        "name": "Emilia summer (20:9)",
+        "version": "0.1.8",
+        "license": "©re:zero los"
+    },
+    "background": {
+        "overlay_alpha": 69
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 2136563807,
+        "accent": -307911698
+    },
+    "colors": {
+        "primary_dark_400": -859979277,
+        "link": -632446225,
+        "primary_dark_100": -893284903,
+        "primary_dark_300": -422328334,
+        "primary_dark_360": -741486593,
+        "primary_dark_200": -371990798,
+        "primary_dark_630": 671877652,
+        "primary_dark_600": 235538454,
+        "primary_dark_800": -1744830464,
+        "primary_dark_700": 234881024,
+        "primary_dark_900": -16777216,
+        "primary_dark_500": -16777216,
+        "primary_dark_660": 1679562033
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
