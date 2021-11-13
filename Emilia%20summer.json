@@ -1,14 +1,14 @@
 {
     "manifest": {
-        "name": "Emilia summer (16:9)",
-        "version": "0.1.5.1",
-        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia_summer_no_notched_screens.json",
         "author": "Tueu loi#1156 (Drown By Wind)",
-        "license": "©re:zero los"
+        "name": "Emilia summer",
+        "version": "0.1.5.1",
+        "license": "©re:zero los",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia%20summer.json"
     },
     "background": {
         "overlay_alpha": 69,
-        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2016-9.jpg"
+        "url": "https:\/\/github.com\/Drownbywind\/Emilia_summer_theme\/raw\/main\/img%2020-9.jpg"
     },
     "fonts": {},
     "simple_colors": {
