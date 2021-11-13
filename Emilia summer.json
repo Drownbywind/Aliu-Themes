@@ -1,9 +1,9 @@
 {
     "manifest": {
-        "author": "Drown By Wind",
+        "author": "Tueu loi#1156 (Drown By Wind)",
         "name": "Emilia summer",
-        "version": "0.1.5",
-        "license": "©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©SEGA(セガ)",
+        "version": "0.1.6",
+        "license": "©re:zero los",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Emilia_summer_theme\/main\/Emilia%20summer.json"
     },
     "background": {
@@ -30,5 +30,6 @@
         "primary_dark_500": -16777216,
         "primary_dark_660": 1679562033
     },
-    "drawable_tints": {}
+    "drawable_tints": {},
+    "raws": {}
 }
