@@ -1,6 +1,8 @@
-# Emilia summer theme
+# Aliucord themes
 
-## Theme requirements and aspects
+   ## Emilia summer theme
+
+**Theme requirements and aspects**
 - This theme needs **full transparency**!
 - Aspect ratio of this theme are 20:9 and 16:9
 
