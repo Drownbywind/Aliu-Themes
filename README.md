@@ -1,4 +1,4 @@
-# Aliucord themes
+# Wind Aliucord themes
 ## Samurai doge
 ### 0.1.1 ver.   
 * initial release
