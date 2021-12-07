@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind (kozuso@yeah.net)",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/Doge_samurai.json"
     },
@@ -13,7 +13,7 @@
     "fonts": {},
     "simple_colors": {
         "statusbar": -1642982383,
-        "active_channel": 2137624425
+        "active_channel": 1252171637
     },
     "colors": {
         "primary_dark_600": 722605843,
