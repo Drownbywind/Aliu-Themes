@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "author": "wind (kozuso@yeah.net)",
+        "version": "0.1.1",
+        "name": "Samurai Doge"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "blur_radius": 0,
+        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge_20_9.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": -1642982383,
+        "active_channel": 2137624425
+    },
+    "colors": {
+        "primary_dark_600": 722605843,
+        "primary_dark_630": 739843351,
+        "primary_dark_660": 537726990,
+        "primary_dark_700": 218103808,
+        "primary_dark_500": -318767104,
+        "primary_dark_800": -637534208,
+        "brand": -261442948,
+        "brand_new_500": -242825321,
+        "link": -149972009,
+        "uikit_btn_compound_color_selector_light": -10778532,
+        "uikit_settings_item_text_color_light": 1080924270,
+        "uikit_settings_item_text_color_dark": -757146679,
+        "primary_dark_900": -369098752,
+        "primary_dark_300": -2702168,
+        "uikit_btn_compound_color_selector_dark": -9524869,
+        "primary_dark_360": -1747532632,
+        "primary_dark_400": -420880691
+    },
+    "drawable_tints": {
+        "ic_sidebar_search_24dp": -2702168,
+        "ic_sidebar_notifications_on_dark_24dp": -2702168,
+        "ic_sidebar_notifications_off_dark_24dp": -2702168,
+        "ic_thread": -2702168,
+        "ic_sidebar_pins_off_dark_24dp": -2702168,
+        "ic_sidebar_pins_on_dark_24dp": -2702168
+    },
+    "raws": {}
+}
