@@ -1,5 +1,7 @@
 # Wind Aliucord themes
 ## Samurai doge
+### 0.1.3 ver.
+* Changed event button and text accent
 ### 0.1.2 ver.
 * Changed active channel colour that it would look better with the text
 ### 0.1.1 ver.   
