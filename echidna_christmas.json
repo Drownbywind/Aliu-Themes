@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "Echidna Christmas",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "author": "wind",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/echidna_christmas.json"
     },
