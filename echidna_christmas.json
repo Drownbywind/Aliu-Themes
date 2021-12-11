@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Echidna Christmas",
         "version": "0.0.2",
-        "author": "wind"
+        "author": "wind",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/echidna_christmas.json"
     },
     "background": {
         "overlay_alpha": 110,
