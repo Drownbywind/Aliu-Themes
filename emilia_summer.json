@@ -2,9 +2,9 @@
     "manifest": {
         "name": "Emilia summer",
         "license": "©re:zero los",
-        "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Emilia_summer_20_9.json",
         "version": "0.2.1",
-        "author": "wind"
+        "author": "wind",
+        "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/Emilia_summer_theme\/emilia_summer.json"
     },
     "background": {
         "overlay_alpha": 120,
