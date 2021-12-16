@@ -12,9 +12,6 @@
 ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/echidna_christmas_preview.png)
 
 ## Emilia summer theme is discontinued
-![preview](.)
 Emilia summer theme is still updated in another branch
-### Emilia summer 0.2.0 ver.
-* Added theming to emoji/gif/sticker emoji picker buttons
 
 ### You can contact me at kozuso@yeah.net -Wind
