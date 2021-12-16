@@ -12,7 +12,7 @@
     },
     "fonts": {},
     "simple_colors": {
-        "active_channel": 2136563807,
+        "active_channel": 2141236137,
         "statusbar": 1476395008
     },
     "colors": {
@@ -35,11 +35,9 @@
         "uikit_btn_compound_color_selector_dark": -256469293,
         "uikit_settings_item_text_color_dark": -422328334,
         "uikit_settings_item_text_color_light": 2023457460,
-        "cardview_dark_background": -83886080,
-        "primary_700": -1006632960
+        "primary_700": -1744830464
     },
     "drawable_tints": {
-        "abc_ab_share_pack_mtrl_alpha": -285212672,
         "ic_thread": -422328334,
         "ic_sidebar_search_24dp": -422328334,
         "ic_sidebar_pins_off_dark_24dp": -422328334,
