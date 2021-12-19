@@ -2,13 +2,13 @@
     "manifest": {
         "name": "Emilia summer",
         "license": "©re:zero los",
-        "version": "0.2.1",
+        "version": "0.2.3",
         "author": "wind",
         "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/Emilia_summer_theme\/emilia_summer.json"
     },
     "background": {
         "overlay_alpha": 120,
-        "url": "https:\/\/media.discordapp.net\/attachments\/311904676390109184\/907028503009063063\/1636322838698.jpg"
+        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/Emilia_summer_theme\/emilia_summer_20_9.jpg"
     },
     "fonts": {},
     "simple_colors": {
@@ -28,14 +28,15 @@
         "primary_dark_700": 402653184,
         "primary_dark_900": -889192448,
         "primary_dark_500": -16777216,
-        "primary_dark_660": 1495405873,
+        "primary_dark_660": 1597121083,
         "uikit_btn_compound_color_selector_light": -877226285,
         "brand": -256469293,
         "brand_new_500": -256469293,
         "uikit_btn_compound_color_selector_dark": -256469293,
         "uikit_settings_item_text_color_dark": -422328334,
-        "uikit_settings_item_text_color_light": 2023457460,
-        "primary_700": -1744830464
+        "uikit_settings_item_text_color_light": -1734638924,
+        "primary_700": -1744830464,
+        "white_800": -1474624988
     },
     "drawable_tints": {
         "ic_thread": -422328334,
