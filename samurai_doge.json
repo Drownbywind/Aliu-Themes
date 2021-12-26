@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.1.5",
+        "version": "0.1.6",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json"
     },
@@ -27,24 +27,24 @@
         "uikit_settings_item_text_color_light": -902542028,
         "uikit_settings_item_text_color_dark": -757146679,
         "primary_dark_900": -369098752,
-        "primary_dark_300": -2702168,
+        "primary_dark_300": -420880691,
         "uikit_btn_compound_color_selector_dark": -9524869,
         "primary_dark_360": -1747532632,
         "primary_dark_400": -420880691,
         "uikit_btn_bg_color_selector_green": -700226986,
         "white_800": -1440471516,
         "primary_700": -1642982383,
-        "white_500": -2702168,
+        "white_500": -1450291,
         "white": -131587
     },
     "drawable_tints": {
-        "ic_sidebar_search_24dp": -2702168,
-        "ic_sidebar_notifications_on_dark_24dp": -2702168,
-        "ic_sidebar_notifications_off_dark_24dp": -2702168,
-        "ic_thread": -2702168,
-        "ic_sidebar_pins_off_dark_24dp": -2702168,
-        "ic_sidebar_pins_on_dark_24dp": -2702168,
-        "ic_channel_text": -2702168
+        "ic_sidebar_search_24dp": -420880691,
+        "ic_sidebar_notifications_on_dark_24dp": -420880691,
+        "ic_sidebar_notifications_off_dark_24dp": -420880691,
+        "ic_thread": -420880691,
+        "ic_sidebar_pins_off_dark_24dp": -420880691,
+        "ic_sidebar_pins_on_dark_24dp": -420880691,
+        "ic_channel_text": -420880691
     },
     "raws": {}
 }
