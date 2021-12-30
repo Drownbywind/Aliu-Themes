@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "Echidna Christmas",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "author": "wind",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/echidna_christmas.json"
     },
@@ -29,13 +29,14 @@
         "primary_dark_360": -1412577108,
         "uikit_btn_compound_color_selector_dark": -52050579,
         "primary_dark_300": -238171988,
-        "uikit_btn_compound_color_selector_light": -1718054323,
+        "uikit_btn_compound_color_selector_light": -1046965683,
         "uikit_settings_item_text_color_dark": -238171988,
-        "uikit_settings_item_text_color_light": -1718054323,
+        "uikit_settings_item_text_color_light": -1063742899,
         "white_800": -1442840576,
         "transparent": 828135732,
         "abc_tint_switch_track": -1595554451,
-        "primary_700": -905245941
+        "primary_700": -1341453557,
+        "brand_new_260": -304029027
     },
     "drawable_tints": {
         "ic_sidebar_notifications_on_dark_24dp": -456275796,
