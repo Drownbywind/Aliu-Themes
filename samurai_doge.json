@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.1.6",
+        "version": "0.1.7",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json"
     },
@@ -12,12 +12,13 @@
     },
     "fonts": {},
     "simple_colors": {
-        "active_channel": 1252171637
+        "active_channel": 1252171637,
+        "mention_highlight": 1112942914
     },
     "colors": {
         "primary_dark_600": 722605843,
         "primary_dark_630": 739843351,
-        "primary_dark_660": 537726990,
+        "primary_dark_660": -2011881962,
         "primary_dark_700": 218103808,
         "primary_dark_500": -318767104,
         "primary_dark_800": -637534208,
