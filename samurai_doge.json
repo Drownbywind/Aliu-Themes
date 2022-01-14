@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json"
     },
@@ -31,7 +31,7 @@
         "primary_dark_300": -420880691,
         "uikit_btn_compound_color_selector_dark": -9524869,
         "primary_dark_360": -1747532632,
-        "primary_dark_400": -420880691,
+        "primary_dark_400": 1705625776,
         "uikit_btn_bg_color_selector_green": -700226986,
         "white_800": -1440471516,
         "primary_700": -1642982383,
