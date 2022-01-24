@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.2.3",
+        "version": "0.2.4",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json"
     },
@@ -48,7 +48,21 @@
         "ic_thread": -420880691,
         "ic_sidebar_pins_off_dark_24dp": -420880691,
         "ic_sidebar_pins_on_dark_24dp": -420880691,
-        "ic_channel_text": -420880691
+        "ic_channel_text": -420880691,
+        "ic_visibility_white_24dp": -420880691,
+        "ic_content_copy_white_a60_24dp": -420880691,
+        "ic_thread_white_24dp": -420880691,
+        "ic_notifications_settings_white_a60_24dp": -420880691,
+        "ic_channel_text_nsfw": -420880691,
+        "ic_channel_text_locked": -420880691,
+        "ic_channel_lock_16dp": -420880691,
+        "ic_channel_announcements_thread_nsfw": -420880691,
+        "ic_channel_announcements_thread_locked": -420880691,
+        "ic_channel_announcements_thread": -420880691,
+        "ic_channel_announcements_nsfw": -420880691,
+        "ic_channel_announcements_locked": -420880691,
+        "ic_channel_announcements_16dp": -420880691,
+        "ic_channel_announcements": -420880691
     },
     "raws": {}
 }
