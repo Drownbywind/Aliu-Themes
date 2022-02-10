@@ -2,20 +2,21 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.0.1",
+        "version": "0.1.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
         "active_channel": 1922793921,
-        "mention_highlight": 1710341238
+        "mention_highlight": 1710341238,
+        "statusbar": -2897934
     },
     "colors": {
         "uikit_btn_compound_color_selector_light": -1018220190,
         "uikit_settings_item_text_color_light": -968474538,
         "uikit_btn_bg_color_selector_secondary_light": -767674557,
-        "dim_foreground_material_light": -300147936,
+        "dim_foreground_material_light": -292781901,
         "white_800": -1474624988,
         "white_500": -422328334,
         "white": -65793,
@@ -30,10 +31,22 @@
         "brand_new_160": -2051835939,
         "brand_new_530": -263248246,
         "primary_light_500_alpha_20": 1920625300,
-        "uikit_settings_item_text_color_dark": -2897934
+        "uikit_settings_item_text_color_dark": -2897934,
+        "primary_light_200": -4807210
     },
     "drawable_tints": {
-        "drawable_button_grey": -767674557
+        "drawable_button_grey": -767674557,
+        "ic_channel_text": -767674557,
+        "ic_channel_text_nsfw": -767674557,
+        "ic_channel_text_locked": -767674557,
+        "ic_channel_lock_16dp": -767674557,
+        "ic_channel_announcements_thread_nsfw": -767674557,
+        "ic_channel_announcements_thread_locked": -767674557,
+        "ic_channel_announcements_thread": -767674557,
+        "ic_channel_announcements_nsfw": -767674557,
+        "ic_channel_announcements_locked": -767674557,
+        "ic_channel_announcements_16dp": -767674557,
+        "ic_channel_announcements": -767674557
     },
     "raws": {}
 }
