@@ -2,7 +2,8 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.0.1"
+        "version": "0.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
     "fonts": {},
