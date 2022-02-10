@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "author": "wind",
+        "name": "light pastel purple",
+        "version": "0.0.1"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 1922793921,
+        "mention_highlight": 1710341238
+    },
+    "colors": {
+        "uikit_btn_compound_color_selector_light": -1018220190,
+        "uikit_settings_item_text_color_light": -968474538,
+        "uikit_btn_bg_color_selector_secondary_light": -767674557,
+        "dim_foreground_material_light": -300147936,
+        "white_800": -1474624988,
+        "white_500": -422328334,
+        "white": -65793,
+        "status_grey_130": -422328334,
+        "status_grey_200": -422328334,
+        "status_grey_160": -422328334,
+        "status_grey_100": -2897934,
+        "status_grey_300": 1010051183,
+        "status_grey_530": -1657919919,
+        "brand": -257124653,
+        "brand_new_500": -256993581,
+        "brand_new_160": -2051835939,
+        "brand_new_530": -263248246,
+        "primary_light_500_alpha_20": 1920625300,
+        "uikit_settings_item_text_color_dark": -2897934
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -767674557
+    },
+    "raws": {}
+}
