@@ -1,0 +1,47 @@
+{
+    "manifest": {
+        "name": "ver_dark_pastel_purple",
+        "author": "wind",
+        "version": "0.1.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 1922793921
+    },
+    "colors": {
+        "primary_dark_400": -292781901,
+        "primary_dark_100": -793865747,
+        "primary_dark_300": -298701752,
+        "primary_dark_360": -292781901,
+        "primary_dark_200": -966239877,
+        "primary_dark_630": -422328334,
+        "primary_dark_600": -422328334,
+        "primary_dark_800": -422328334,
+        "primary_dark_700": -422328334,
+        "primary_dark_660": -422328334,
+        "uikit_btn_compound_color_selector_light": -257258525,
+        "brand": -257124653,
+        "brand_new_500": -256993581,
+        "uikit_btn_compound_color_selector_dark": -263180675,
+        "uikit_settings_item_text_color_dark": -299556565,
+        "uikit_settings_item_text_color_light": -441476647,
+        "primary_700": -422328334,
+        "white_800": -423711256,
+        "white_500": -12765373,
+        "white": -854273,
+        "dim_foreground_material_light": -422328334,
+        "primary_630": 1118342346,
+        "primary_dark_material_dark": -422328334
+    },
+    "drawable_tints": {
+        "ic_thread": -298701752,
+        "ic_sidebar_search_24dp": -298701752,
+        "ic_sidebar_pins_off_dark_24dp": -298701752,
+        "ic_sidebar_pins_on_dark_24dp": -298701752,
+        "ic_sidebar_notifications_on_dark_24dp": -298701752,
+        "ic_sidebar_notifications_off_dark_24dp": -298701752,
+        "ic_channel_text": -298701752
+    },
+    "raws": {}
+}
