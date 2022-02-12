@@ -2,17 +2,18 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
         "active_channel": 1922793921,
-        "mention_highlight": 1710341238
+        "mention_highlight": 1710341238,
+        "blocked_bg": 1519748291
     },
     "colors": {
-        "uikit_btn_compound_color_selector_light": -1018220190,
+        "uikit_btn_compound_color_selector_light": -682675870,
         "uikit_settings_item_text_color_light": -968474538,
         "uikit_btn_bg_color_selector_secondary_light": -767674557,
         "dim_foreground_material_light": -292781901,
@@ -32,7 +33,8 @@
         "primary_light_500_alpha_20": 1920625300,
         "uikit_settings_item_text_color_dark": -2897934,
         "primary_light_200": -1,
-        "primary_dark_300": -5922876
+        "primary_dark_300": -5922876,
+        "grey_1": -415353021
     },
     "drawable_tints": {
         "drawable_button_grey": -767674557,
