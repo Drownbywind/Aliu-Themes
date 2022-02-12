@@ -2,7 +2,8 @@
     "manifest": {
         "name": "ver_dark_pastel_purple",
         "author": "wind",
-        "version": "0.1.0"
+        "version": "0.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/ver_dark_discord_pastel_purple.json"
     },
     "background": {},
     "fonts": {},
