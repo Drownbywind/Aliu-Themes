@@ -2,7 +2,7 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.1.5",
+        "version": "0.1.6",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
@@ -35,7 +35,7 @@
         "primary_light_200": -1,
         "primary_dark_300": -5922876,
         "grey_1": -415353021,
-        "primary_700": -5922876
+        "primary_700": -5264949
     },
     "drawable_tints": {
         "drawable_button_grey": -767674557,
