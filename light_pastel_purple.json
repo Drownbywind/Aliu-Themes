@@ -2,7 +2,7 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.1.7",
+        "version": "0.1.8",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
@@ -14,31 +14,31 @@
     },
     "colors": {
         "uikit_btn_compound_color_selector_light": -280022686,
-        "uikit_settings_item_text_color_light": -968474538,
-        "uikit_btn_bg_color_selector_secondary_light": -767674557,
-        "dim_foreground_material_light": -292781901,
+        "uikit_settings_item_text_color_light": -936963794,
+        "uikit_btn_bg_color_selector_secondary_light": -280022686,
+        "dim_foreground_material_light": -16777216,
         "white_800": -1474624988,
         "white_500": -2897934,
-        "white": -658945,
+        "white": -83886081,
         "status_grey_130": -422328334,
         "status_grey_200": -422328334,
-        "status_grey_160": -422328334,
+        "status_grey_160": 1992339689,
         "status_grey_100": -2897934,
-        "status_grey_300": 1010051183,
+        "status_grey_300": 1513367663,
         "status_grey_530": -1657919919,
         "brand": -280022686,
         "brand_new_500": -256993581,
         "brand_new_160": 1603631069,
         "brand_new_530": -263248246,
         "primary_light_500_alpha_20": 1920625300,
-        "uikit_settings_item_text_color_dark": -2897934,
+        "uikit_settings_item_text_color_dark": -1157627904,
         "primary_light_200": -1,
         "primary_dark_300": -5922876,
         "grey_1": -415353021,
         "primary_700": -5264949,
         "status_grey_600": -14216914,
         "brand_500_alpha_20": -1463765802,
-        "black_alpha_80": -1273950191,
+        "black_alpha_80": -1423037390,
         "abc_tint_switch_track": -8888919
     },
     "drawable_tints": {
@@ -68,7 +68,8 @@
         "ic_notifications_settings_grey_a60_24dp": -14216914,
         "ic_channel_text_grey_18dp": -14216914,
         "ic_channel_voice_grey_18dp": -14216914,
-        "ic_thread_grey_18dp": -14216914
+        "ic_thread_grey_18dp": -14216914,
+        "img_logo_wordmark": -14216914
     },
     "raws": {}
 }
