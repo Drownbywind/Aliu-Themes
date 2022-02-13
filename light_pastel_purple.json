@@ -2,7 +2,7 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.1.8",
+        "version": "0.1.9",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
@@ -31,7 +31,7 @@
         "brand_new_160": 1603631069,
         "brand_new_530": -263248246,
         "primary_light_500_alpha_20": 1920625300,
-        "uikit_settings_item_text_color_dark": -1157627904,
+        "uikit_settings_item_text_color_dark": 711877270,
         "primary_light_200": -1,
         "primary_dark_300": -5922876,
         "grey_1": -415353021,
