@@ -2,7 +2,7 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.1.10",
+        "version": "0.1.11",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json"
     },
     "background": {},
@@ -39,7 +39,8 @@
         "status_grey_600": -14216914,
         "brand_500_alpha_20": -1463765802,
         "black_alpha_80": -1423037390,
-        "abc_tint_switch_track": -8888919
+        "abc_tint_switch_track": -8888919,
+        "material_grey_50": -2897934
     },
     "drawable_tints": {
         "drawable_button_grey": -14216914,
@@ -69,7 +70,10 @@
         "ic_channel_text_grey_18dp": -14216914,
         "ic_channel_voice_grey_18dp": -14216914,
         "ic_thread_grey_18dp": -14216914,
-        "img_logo_wordmark": -14216914
+        "img_logo_wordmark": -14216914,
+        "drawable_button_red": -8888919,
+        "drawable_open_folder_light": -256595993,
+        "ic_settings_grey_a60_24dp": -16777216
     },
     "raws": {}
 }
