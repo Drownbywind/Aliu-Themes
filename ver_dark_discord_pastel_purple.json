@@ -2,8 +2,9 @@
     "manifest": {
         "name": "ver_dark_pastel_purple",
         "author": "wind",
-        "version": "0.1.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/ver_dark_discord_pastel_purple.json"
+        "version": "0.1.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/ver_dark_discord_pastel_purple.json",
+        "license": "EPL-2.0 License"
     },
     "background": {},
     "fonts": {},
@@ -16,11 +17,11 @@
         "primary_dark_300": -298701752,
         "primary_dark_360": -292781901,
         "primary_dark_200": -966239877,
-        "primary_dark_630": -422328334,
-        "primary_dark_600": -422328334,
-        "primary_dark_800": -422328334,
-        "primary_dark_700": -422328334,
-        "primary_dark_660": -422328334,
+        "primary_dark_630": -2897934,
+        "primary_dark_600": -2897934,
+        "primary_dark_800": -2897934,
+        "primary_dark_700": -2897934,
+        "primary_dark_660": 1992339689,
         "uikit_btn_compound_color_selector_light": -257258525,
         "brand": -257124653,
         "brand_new_500": -256993581,
@@ -33,7 +34,8 @@
         "white": -854273,
         "dim_foreground_material_light": -422328334,
         "primary_630": 1118342346,
-        "primary_dark_material_dark": -422328334
+        "primary_dark_material_dark": -422328334,
+        "primary_500_alpha_20": 1759960575
     },
     "drawable_tints": {
         "ic_thread": -298701752,
