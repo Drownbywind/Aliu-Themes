@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.2.7",
+        "version": "0.3.0",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json"
     },
@@ -42,23 +42,16 @@
         "brand_new": -896873078,
         "dim_foreground_material_light": -871888376,
         "primary_630": 1108612098,
-        "primary_660": -1492645881
+        "primary_660": -1492645881,
+        "primary_500_alpha_20": 1627389952
     },
     "drawable_tints": {
-        "ic_sidebar_search_24dp": -420880691,
-        "ic_sidebar_notifications_on_dark_24dp": -420880691,
-        "ic_sidebar_notifications_off_dark_24dp": -420880691,
-        "ic_thread": -420880691,
-        "ic_sidebar_pins_off_dark_24dp": -420880691,
-        "ic_sidebar_pins_on_dark_24dp": -420880691,
         "ic_channel_text": -420880691,
-        "ic_visibility_white_24dp": -420880691,
-        "ic_content_copy_white_a60_24dp": -420880691,
-        "ic_thread_white_24dp": -420880691,
-        "ic_notifications_settings_white_a60_24dp": -420880691,
         "ic_channel_text_nsfw": -420880691,
         "ic_channel_text_locked": -420880691,
         "ic_channel_lock_16dp": -420880691,
+        "ic_channel_text_grey_18dp": -420880691,
+        "ic_channel_voice_grey_18dp": -420880691,
         "ic_channel_announcements_thread_nsfw": -420880691,
         "ic_channel_announcements_thread_locked": -420880691,
         "ic_channel_announcements_thread": -420880691,
@@ -66,7 +59,22 @@
         "ic_channel_announcements_locked": -420880691,
         "ic_channel_announcements_16dp": -420880691,
         "ic_channel_announcements": -420880691,
-        "ic_account_circle_white_a60_24dp": -420880691
+        "ic_sidebar_pins_on_dark_24dp": -420880691,
+        "ic_sidebar_pins_off_dark_24dp": -420880691,
+        "ic_sidebar_notifications_off_dark_24dp": -420880691,
+        "ic_sidebar_notifications_on_dark_24dp": -420880691,
+        "ic_arrow_right_24dp": -420880691,
+        "ic_visibility_white_24dp": -420880691,
+        "ic_content_copy_white_a60_24dp": -420880691,
+        "ic_thread_white_24dp": -420880691,
+        "ic_thread_grey_18dp": -420880691,
+        "ic_sidebar_search_24dp": -420880691,
+        "ic_notifications_white_a60_24dp": -420880691,
+        "ic_notifications_off_white_a60_24dp": -420880691,
+        "ic_notifications_settings_white_a60_24dp": -420880691,
+        "img_logo_wordmark": -420880691,
+        "drawable_button_red": -280796586,
+        "ic_settings_white_a60_24dp": -420880691
     },
     "raws": {}
 }
