@@ -1,4 +1,4 @@
-# Wind Aliucord themes
+# Aliucord themes
 
 ## No Transperancy Themes
 
