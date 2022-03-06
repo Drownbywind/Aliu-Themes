@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "Echidna Christmas",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "author": "wind",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/echidna_christmas.json",
         "license": "©re:zero los"
@@ -14,7 +14,8 @@
     "simple_colors": {
         "active_channel": 2107150925,
         "input_background": 1912602624,
-        "statusbar": 1981027347
+        "statusbar": 1981027347,
+        "blocked_bg": -1542122219
     },
     "colors": {
         "primary_dark_630": 385875968,
@@ -30,9 +31,9 @@
         "primary_dark_360": -1412577108,
         "uikit_btn_compound_color_selector_dark": -52050579,
         "primary_dark_300": -238171988,
-        "uikit_btn_compound_color_selector_light": -1046965683,
+        "uikit_btn_compound_color_selector_light": -6778291,
         "uikit_settings_item_text_color_dark": -238171988,
-        "uikit_settings_item_text_color_light": -1063742899,
+        "uikit_settings_item_text_color_light": -6778291,
         "white_800": -1442840576,
         "abc_tint_switch_track": -1595554451,
         "primary_700": -1341453557,
@@ -70,7 +71,8 @@
         "img_logo_wordmark": -456275796,
         "drawable_button_red": -9410040,
         "drawable_button_grey": -10989543,
-        "ic_settings_white_a60_24dp": -456275796
+        "ic_settings_white_a60_24dp": -456275796,
+        "drawable_open_folder_dark": -1340598270
     },
     "raws": {}
 }
