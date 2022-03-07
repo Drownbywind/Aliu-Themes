@@ -2,26 +2,26 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.1.51",
+        "version": "0.2.1",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json",
-        "license": " EPL-2.0 License"
+        "license": "EPL-2.0 License"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
         "active_channel": 1921745345,
-        "mention_highlight": 1710341238,
+        "mention_highlight": 475491573,
         "blocked_bg": 1519748291
     },
     "colors": {
-        "uikit_btn_compound_color_selector_light": -280022686,
-        "uikit_btn_bg_color_selector_secondary_light": -280022686,
+        "uikit_btn_compound_color_selector_light": -11587230,
+        "uikit_btn_bg_color_selector_secondary_light": -11587230,
         "uikit_settings_item_text_color_light": -936963794,
         "uikit_settings_item_text_color_dark": -1582593,
         "dim_foreground_material_light": -16777216,
         "white_800": -1474624988,
         "white_500": -2897934,
-        "white": -83886081,
+        "white": -117440513,
         "grey_1": -415353021,
         "status_grey_130": -422328334,
         "status_grey_200": -422328334,
@@ -44,9 +44,14 @@
         "primary_100_alpha_80": -339693335,
         "primary_700": -5264949,
         "black_alpha_80": -1423037390,
-        "abc_tint_switch_track": -411542103,
+        "abc_tint_switch_track": -415092637,
         "material_grey_50": -2897934,
-        "ripple_material_light": -256595993
+        "ripple_material_light": -256595993,
+        "uikit_btn_bg_color_selector_red": -5885786,
+        "uikit_btn_bg_color_selector_green": -10403969,
+        "primary_dark_200": -14216914,
+        "black_alpha_60": -775372571,
+        "primary_material_light": -422328334
     },
     "drawable_tints": {
         "ic_channel_text": -14216914,
@@ -79,7 +84,9 @@
         "drawable_button_red": -8888919,
         "drawable_button_grey": -14216914,
         "drawable_open_folder_light": -256595993,
-        "ic_settings_grey_a60_24dp": -16777216
+        "ic_settings_grey_a60_24dp": -16777216,
+        "ic_status_online_16dp": -1388934063,
+        "ic_spotify_green_24dp": -280022686
     },
     "raws": {}
 }
