@@ -2,15 +2,27 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json",
-        "license": "EPL-2.0 License"
+        "license": "EPL-2.0"
     },
+/*
+Added some fonts with 0.2.2 enable font hook for it
+This will probably be the last update before react native
+*/
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "ginto_regular": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Regular.ttf",
+        "ginto_medium": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Medium.ttf",
+        "whitney_medium": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Medium.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-SemiBold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-SemiBold.ttf",
+        "ginto_bold": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Bold.ttf",
+        "whitney_bold": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Bold.ttf"
+    },
     "simple_colors": {
         "active_channel": 1921745345,
-        "mention_highlight": 475491573,
+        "mention_highlight": 727149813,
         "blocked_bg": 1519748291
     },
     "colors": {
@@ -23,8 +35,8 @@
         "white_500": -2897934,
         "white": -117440513,
         "grey_1": -415353021,
-        "status_grey_130": -422328334,
-        "status_grey_200": -422328334,
+        "status_grey_130": -2897934,
+        "status_grey_200": -2897934,
         "status_grey_160": 1992339689,
         "status_grey_100": -2897934,
         "status_grey_300": 1513367663,
@@ -40,8 +52,8 @@
         "primary_light_500_alpha_20": 1920625300,
         "primary_light_200": -1,
         "primary_dark_300": -5922876,
-        "primary_100_alpha_60": -339891218,
-        "primary_100_alpha_80": -339693335,
+        "primary_100_alpha_60": -4346898,
+        "primary_100_alpha_80": -4149015,
         "primary_700": -5264949,
         "black_alpha_80": -1423037390,
         "abc_tint_switch_track": -415092637,
@@ -86,7 +98,8 @@
         "drawable_open_folder_light": -256595993,
         "ic_settings_grey_a60_24dp": -16777216,
         "ic_status_online_16dp": -1388934063,
-        "ic_spotify_green_24dp": -280022686
+        "ic_spotify_green_24dp": -280022686,
+        "ic_direct_message_header": -14216914
     },
     "raws": {}
 }
