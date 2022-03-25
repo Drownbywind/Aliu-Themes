@@ -2,14 +2,10 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.2.2",
+        "version": "0.2.3",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json",
         "license": "EPL-2.0"
     },
-/*
-Added some fonts with 0.2.2 enable font hook for it
-This will probably be the last update before react native
-*/
     "background": {},
     "fonts": {
         "ginto_regular": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Regular.ttf",
@@ -63,7 +59,8 @@ This will probably be the last update before react native
         "uikit_btn_bg_color_selector_green": -10403969,
         "primary_dark_200": -14216914,
         "black_alpha_60": -775372571,
-        "primary_material_light": -422328334
+        "primary_material_light": -422328334,
+        "primary_dark_800": -6845766
     },
     "drawable_tints": {
         "ic_channel_text": -14216914,
@@ -95,7 +92,7 @@ This will probably be the last update before react native
         "img_logo_wordmark": -14216914,
         "drawable_button_red": -8888919,
         "drawable_button_grey": -14216914,
-        "drawable_open_folder_light": -256595993,
+        "drawable_open_folder_light": -676026393,
         "ic_settings_grey_a60_24dp": -16777216,
         "ic_status_online_16dp": -1388934063,
         "ic_spotify_green_24dp": -280022686,
