@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Emilia summer",
         "license": "©re:zero los",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "author": "wind",
         "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/Emilia_summer_theme\/emilia_summer.json"
     },
@@ -73,7 +73,8 @@
         "drawable_button_red": -8888919,
         "drawable_button_grey": -14216914,
         "drawable_open_folder_light": -256595993,
-        "ic_settings_white_a60_24dp": -422328334
+        "ic_settings_white_a60_24dp": -422328334,
+        "drawable_open_folder_dark": 1849038671
     },
     "raws": {}
 }
