@@ -39,7 +39,9 @@
         "white_800": -1474624988,
         "dim_foreground_material_light": -1072492267,
         "primary_dark_material_dark": 1695156491,
-        "primary_500_alpha_20": 1627389952
+        "primary_500_alpha_20": 1627389952,
+        "white": -234881025,
+        "white_500": -420748289
     },
     "drawable_tints": {
         "ic_channel_text": -422328334,
