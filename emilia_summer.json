@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Emilia summer",
         "license": "©re:zero los",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "author": "wind",
         "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/Emilia_summer_theme\/emilia_summer.json"
     },
@@ -13,7 +13,8 @@
     "fonts": {},
     "simple_colors": {
         "active_channel": 1922793921,
-        "statusbar": 1275068416
+        "statusbar": 1275068416,
+        "blocked_bg": 2132417050
     },
     "colors": {
         "primary_dark_400": -859979277,
@@ -36,8 +37,6 @@
         "uikit_settings_item_text_color_light": -966239877,
         "primary_700": 1694498816,
         "white_800": -1474624988,
-        "white_500": -420748289,
-        "white": -234881025,
         "dim_foreground_material_light": -1072492267,
         "primary_dark_material_dark": 1695156491,
         "primary_500_alpha_20": 1627389952
