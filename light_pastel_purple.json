@@ -2,7 +2,7 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.2.3",
+        "version": "0.2.4",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json",
         "license": "EPL-2.0"
     },
@@ -33,7 +33,7 @@
         "grey_1": -415353021,
         "status_grey_130": -2897934,
         "status_grey_200": -2897934,
-        "status_grey_160": 1992339689,
+        "status_grey_160": -4149015,
         "status_grey_100": -2897934,
         "status_grey_300": 1513367663,
         "status_grey_400": -2063204067,
