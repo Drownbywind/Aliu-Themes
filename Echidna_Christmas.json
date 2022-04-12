@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "name": "Echidna Christmas",
+        "version": "0.5.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/echidna_christmas.json",
+        "author": "discontinued and removed ",
+        "license": "Removed it just to be safe I don't want any legal stuff"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -16777216,
+        "background": -16777216
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
