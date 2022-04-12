@@ -1,9 +1,10 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "name": "Samurai Doge",
-        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json",
+        "license": "EPL-2.0 License"
     },
     "background": {
         "overlay_alpha": 120,
@@ -14,7 +15,6 @@
     "simple_colors": {
         "active_channel": 1252171637,
         "mention_highlight": 1112942914,
-        "statusbar": -1006171897,
         "blocked_bg": 2132417050
     },
     "colors": {
@@ -73,8 +73,10 @@
         "ic_notifications_off_white_a60_24dp": -420880691,
         "ic_notifications_settings_white_a60_24dp": -420880691,
         "img_logo_wordmark": -420880691,
-        "drawable_button_red": -280796586,
-        "ic_settings_white_a60_24dp": -420880691
+        "drawable_button_red": -281325757,
+        "ic_settings_white_a60_24dp": -420880691,
+        "drawable_button_grey": -433510620,
+        "drawable_open_folder_dark": 2115445530
     },
     "raws": {}
 }
