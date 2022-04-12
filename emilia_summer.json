@@ -1,14 +1,17 @@
 {
     "manifest": {
         "name": "Emilia summer ",
-        "version": "0.5.0",
+        "version": "0.5.1",
         "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/Emilia_summer_theme\/emilia_summer.json",
         "license": "Removed it just to be safe I don't want any legal stuff",
         "author": "disconnected and removed"
     },
     "background": {},
     "fonts": {},
-    "simple_colors": {},
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -16777216
+    },
     "colors": {},
     "drawable_tints": {},
     "raws": {}
