@@ -1,10 +1,9 @@
 {
     "manifest": {
         "name": "Emilia summer",
-        "license": "©re:zero los",
         "version": "0.3.2",
         "author": "wind",
-        "updater": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/Emilia_summer_theme\/emilia_summer.json"
+        "license": "©re:zero los"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/Emilia_summer_theme\/emilia_summer_20_9.jpg",
