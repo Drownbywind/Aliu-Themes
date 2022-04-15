@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.1.0",
+        "version": "0.1.1",
         "author": "wind",
         "name": "Light & Dark adaptive",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -37,7 +37,7 @@
         "primary_dark_800": "system_neutral1_800",
         "primary_dark_900": "system_neutral2_900",
         "primary_700": "system_neutral1_900",
-        "primary_500_alpha_20": "system_accent1_200",
+        "primary_500_alpha_20": "system_accent2_800",
         //light mode strings
         "white": "system_neutral1_100",
         "white_500": "system_accent1_100",
@@ -47,12 +47,8 @@
         "status_grey_130": "system_accent1_100",
         "status_grey_200": "system_accent1_100",
         "status_grey_160": "system_accent1_200",
-        /*
-        // need to change this
         "status_grey_300": "system_accent2_300",
-        "status_grey_400": "system_accent1_500",
-        // need to check what these do
-*/
+        "status_grey_400": "system_accent2_500",
         "status_grey_530": "system_accent1_700",
         "status_grey_600": "system_accent1_500",
         "status_grey_900": "system_accent1_900",
@@ -95,9 +91,9 @@
         "drawable_open_folder_dark": "system_accent2_800",
         "drawable_bg_reaction_dark": "system_accent2_700",
         "drawable_bg_highlight": "system_accent2_300",
-        "drawable_overlay_channels_selected_dark": "system_accent3_700",
-        "drawable_overlay_channels_selected_light": "system_accent3_200",
-        "drawable_bg_reaction_light": "system_accent3_200"
+        "drawable_overlay_channels_selected_dark": "system_accent2_700",
+        "drawable_overlay_channels_selected_light": "system_accent2_200",
+        "drawable_bg_reaction_light": "system_accent1_200"
     },
     "raws": {}
 }
