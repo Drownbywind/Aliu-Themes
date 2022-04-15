@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.1.1",
+        "version": "0.1.2",
         "author": "wind",
         "name": "Light & Dark adaptive",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -52,7 +52,7 @@
         "status_grey_530": "system_accent1_700",
         "status_grey_600": "system_accent1_500",
         "status_grey_900": "system_accent1_900",
-        "grey_1": "system_neutral1_300"
+        "grey_1": "system_neutral1_700"
     },
     "drawable_tints": {
     	"drawable_button_red": "system_accent1_500",
