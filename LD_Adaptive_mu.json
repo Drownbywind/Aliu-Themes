@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.0.2",
+        "version": "0.1.0",
         "author": "wind",
         "name": "Light & Dark adaptive",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -94,7 +94,7 @@
         "drawable_open_folder_light": "system_accent2_200",
         "drawable_open_folder_dark": "system_accent2_800",
         "drawable_bg_reaction_dark": "system_accent2_700",
-        "drawable_bg_highlight": 318767104,
+        "drawable_bg_highlight": "system_accent2_300",
         "drawable_overlay_channels_selected_dark": "system_accent3_700",
         "drawable_overlay_channels_selected_light": "system_accent3_200",
         "drawable_bg_reaction_light": "system_accent3_200"
