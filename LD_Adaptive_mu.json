@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.1.2",
+        "version": "0.1.3",
         "author": "wind",
         "name": "Light & Dark adaptive",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -15,14 +15,18 @@
         "uikit_btn_compound_color_selector_dark": "system_accent1_200",
         "uikit_btn_bg_color_selector_secondary_light": "system_accent1_500",
         "uikit_settings_item_text_color_dark": "system_neutral1_200",
-        "uikit_settings_item_text_color_light": "system_accent1_500",
+        "uikit_settings_item_text_color_light": "system_accent1_600",
         //brand strings
-        "brand": "system_accent1_200",
-        "brand_new_160": "system_accent2_200",
+        "brand": "system_accent1_300",
+        "brand_500_alpha_20": "system_accent1_700",
+        "brand_new_160": "system_accent1_200",
+        "brand_new_260": "system_accent1_200",
         "brand_new_500": "system_accent1_500",
-        "brand_new_530": "system_accent1_600",
-        "link": "system_accent2_200",
-        "link_500": "system_accent2_200",
+        "brand_new_530": "system_accent1_700",
+        "link": "system_accent3_300",
+        "link_light": "system_accent3_400",
+        "link_500": "system_accent3_300",
+        "link_light_500": "system_accent3_400",
         //dark mode strings
         "primary_dark_100": "system_accent3_100",
         "primary_dark_200": "system_neutral1_10",
