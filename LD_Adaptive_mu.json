@@ -1,8 +1,8 @@
 {
     "manifest": {
-        "version": "0.1.4",
+        "version": "0.1.5",
         "author": "wind",
-        "name": "Light & Dark adaptive",
+        "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
         "license": "EPL-2.0"
     },
@@ -75,14 +75,13 @@
         "ic_channel_announcements_locked": "system_neutral2_500",
         "ic_channel_announcements_16dp": "system_neutral2_500",
         "ic_channel_announcements": "system_neutral2_500",
+        "ic_arrow_right_24dp": "system_neutral2_500",
         /* part not done
         "ic_sidebar_pins_on_dark_24dp": ,
         "ic_sidebar_pins_off_dark_24dp": ,
         "ic_sidebar_notifications_off_dark_24dp": ,
         "ic_sidebar_notifications_on_dark_24dp": ,
-        "ic_arrow_right_24dp": ,
         "ic_visibility_white_24dp": ,
-        "ic_content_copy_white_a60_24dp": ,
         "ic_thread_white_24dp": ,
         "ic_thread_grey_18dp": ,
         "ic_sidebar_search_24dp": ,
@@ -90,14 +89,19 @@
         "ic_notifications_off_white_a60_24dp": ,
         "ic_notifications_settings_white_a60_24dp": ,
         "img_logo_wordmark": ,
-        "ic_settings_white_a60_24dp": ,
         */
-        "drawable_open_folder_light": "system_accent2_200",
+        // the ground work
+        "ic_settings_white_a60_24dp": "system_accent2_200",
+        "ic_content_copy_white_a60_24dp": "system_accent2_200",
+        "ic_settings_grey_a60_24dp": "system_accent1_700",
+        "ic_content_copy_grey_a60_24dp": "system_accent1_700",
+        // end of ground work
+        "drawable_open_folder_light": "system_accent1_200",
         "drawable_open_folder_dark": "system_accent2_800",
         "drawable_bg_reaction_dark": "system_accent2_700",
         "drawable_bg_highlight": "system_accent2_300",
         "drawable_overlay_channels_selected_dark": "system_accent2_700",
-        "drawable_overlay_channels_selected_light": "system_accent2_200",
+        "drawable_overlay_channels_selected_light": "system_accent1_200",
         "drawable_bg_reaction_light": "system_accent1_200"
     },
     "raws": {}
