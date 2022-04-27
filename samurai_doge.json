@@ -1,10 +1,10 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json",
-        "license": "EPL-2.0 License"
+        "license": "EPL-2.0"
     },
     "background": {
         "overlay_alpha": 120,
@@ -14,7 +14,7 @@
     "fonts": {},
     "simple_colors": {
         "active_channel": 1252171637,
-        "mention_highlight": 1112942914,
+        "mention_highlight": 1816665398,
         "blocked_bg": 2132417050
     },
     "colors": {
@@ -32,7 +32,7 @@
         "primary_dark_300": -420880691,
         "uikit_btn_compound_color_selector_dark": -9524869,
         "primary_dark_360": -1747532632,
-        "primary_dark_400": 1705625776,
+        "primary_dark_400": 1906952368,
         "uikit_btn_bg_color_selector_green": -700226986,
         "white_800": -1440471516,
         "primary_700": -1642982383,
@@ -43,7 +43,9 @@
         "dim_foreground_material_light": -871888376,
         "primary_630": 1108612098,
         "primary_660": -1492645881,
-        "primary_500_alpha_20": 1627389952
+        "primary_500_alpha_20": 1627389952,
+        "link": -3305397,
+        "link_500": -3305397
     },
     "drawable_tints": {
         "ic_channel_text": -420880691,
@@ -76,7 +78,8 @@
         "drawable_button_red": -281325757,
         "ic_settings_white_a60_24dp": -420880691,
         "drawable_button_grey": -433510620,
-        "drawable_open_folder_dark": 2115445530
+        "drawable_open_folder_dark": 2115445530,
+        "drawable_bg_reaction_dark": 2052353138
     },
     "raws": {}
 }
