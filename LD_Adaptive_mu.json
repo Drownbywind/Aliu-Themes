@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.1.6",
+        "version": "0.1.7",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -69,7 +69,6 @@
         "ic_channel_announcements_locked": "system_neutral2_500",
         "ic_channel_announcements_16dp": "system_neutral2_500",
         "ic_channel_announcements": "system_neutral2_500",
-        "ic_thread_white_24dp": "system_neutral2_500",
         "ic_thread_grey_18dp": "system_neutral2_500",
         //some stuff not done
         "ic_sidebar_pins_on_dark_24dp": "system_accent2_300",
@@ -88,12 +87,14 @@
         "ic_notifications_white_a60_24dp": "system_accent2_200",
         "ic_notifications_off_white_a60_24dp": "system_accent2_200",
         "ic_notifications_settings_white_a60_24dp": "system_accent2_200",
+        "ic_thread_white_24dp": "system_accent2_200",
         "ic_settings_grey_a60_24dp": "system_accent1_700",
         "ic_content_copy_grey_a60_24dp": "system_accent1_700",
         "ic_visibility_grey_24dp": "system_accent1_700",
         "ic_notifications_grey_a60_24dp": "system_accent1_700",
         "ic_notifications_off_grey_a60_24dp": "system_accent1_700",
         "ic_notifications_settings_grey_a60_24dp": "system_accent1_700",
+        "ic_thread_grey_24dp": "system_accent1_700",
         "drawable_button_red": "system_accent1_500",
         "drawable_button_grey": "system_accent2_500",
         "drawable_open_folder_light": "system_accent1_200",
