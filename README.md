@@ -1,5 +1,7 @@
 # Aliucord themes
 
+A list of themes made for Aliucord Android Discord client from wind
+
 ## No Transperancy Themes
 
 ### Material you themes
