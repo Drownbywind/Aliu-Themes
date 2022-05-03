@@ -2,6 +2,10 @@
 
 ## No Transperancy Themes
 
+### Material you themes
+
+- L&D adaptive mu ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/LD_Adaptive_mu_preview.jpg)
+
 ### Light Pastel Theme
   
 - Light pastel purple ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/light_pastel_purple_preview.png)
