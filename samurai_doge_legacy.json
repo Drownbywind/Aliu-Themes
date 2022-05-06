@@ -4,7 +4,7 @@
         "name": "Samurai Doge legacy",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge_lagacy.json",
         "license": "EPL-2.0",
-        "version": "0.4.0"
+        "version": "0.3.3"
     },
     "background": {
         "overlay_alpha": 120,
