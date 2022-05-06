@@ -1,47 +1,44 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.3.2",
+        "version": "0.3.4",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json",
         "license": "EPL-2.0"
     },
     "background": {
-        "overlay_alpha": 120,
-        "blur_radius": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge_20_9.png"
+        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.gif"
     },
     "fonts": {},
     "simple_colors": {
-        "active_channel": 1252171637,
         "mention_highlight": 1816665398,
         "blocked_bg": 2132417050
     },
     "colors": {
-        "primary_dark_600": 722605843,
-        "primary_dark_630": 739843351,
+        "primary_dark_600": 705828627,
+        "primary_dark_630": 1075387671,
         "primary_dark_660": -2011881962,
-        "primary_dark_700": 218103808,
+        "primary_dark_700": 620756992,
         "primary_dark_500": -318767104,
         "primary_dark_800": 1695091465,
-        "brand": -896873078,
-        "brand_new_500": -902542028,
+        "brand": -460665462,
+        "brand_new_500": -466334412,
         "uikit_btn_compound_color_selector_light": -10778532,
-        "uikit_settings_item_text_color_light": -902542028,
-        "uikit_settings_item_text_color_dark": -757146679,
+        "uikit_settings_item_text_color_light": -733513901,
+        "uikit_settings_item_text_color_dark": -2171959,
         "primary_dark_300": -420880691,
         "uikit_btn_compound_color_selector_dark": -9524869,
-        "primary_dark_360": -1747532632,
-        "primary_dark_400": 1906952368,
+        "primary_dark_360": -456806772,
+        "primary_dark_400": -1937003374,
         "uikit_btn_bg_color_selector_green": -700226986,
         "white_800": -1440471516,
         "primary_700": -1642982383,
         "white_500": -1450291,
         "white": -131587,
         "primary_dark_material_dark": 1695091465,
-        "brand_new": -896873078,
+        "brand_new": -477442678,
         "dim_foreground_material_light": -871888376,
-        "primary_630": 1108612098,
+        "primary_630": 1711276032,
         "primary_660": -1492645881,
         "primary_500_alpha_20": 1627389952,
         "link": -3305397,
@@ -79,7 +76,8 @@
         "ic_settings_white_a60_24dp": -420880691,
         "drawable_button_grey": -433510620,
         "drawable_open_folder_dark": 2115445530,
-        "drawable_bg_reaction_dark": 2052353138
+        "drawable_bg_reaction_dark": 2052353138,
+        "drawable_overlay_channels_selected_dark": 1468367712
     },
     "raws": {}
 }
