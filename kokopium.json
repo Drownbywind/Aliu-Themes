@@ -2,7 +2,9 @@
     "manifest": {
         "version": "0.0.2",
         "author": "wind",
-        "name": "Kokopium"
+        "name": "Kokopium",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/kokopium.json",
+        "license": "EPL-2.0"
     },
     "background": {
         "overlay_alpha": 0,
