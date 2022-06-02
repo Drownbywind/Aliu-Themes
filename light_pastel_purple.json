@@ -2,7 +2,7 @@
     "manifest": {
         "author": "wind",
         "name": "light pastel purple",
-        "version": "0.2.4",
+        "version": "0.2.5",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/light_pastel_purple.json",
         "license": "EPL-2.0"
     },
@@ -17,9 +17,8 @@
         "whitney_bold": "https:\/\/github.com\/Drownbywind\/Aliu-Themes\/raw\/main\/Fonts\/MerriweatherSans-Bold.ttf"
     },
     "simple_colors": {
-        "active_channel": 1921745345,
-        "mention_highlight": 727149813,
-        "blocked_bg": 1519748291
+        "blocked_bg": 1519748291,
+        "mention_highlight": 1164073112
     },
     "colors": {
         "uikit_btn_compound_color_selector_light": -11587230,
@@ -60,7 +59,8 @@
         "primary_dark_200": -14216914,
         "black_alpha_60": -775372571,
         "primary_material_light": -422328334,
-        "primary_dark_800": -6845766
+        "primary_dark_800": -6845766,
+        "status_yellow_500": -584180920
     },
     "drawable_tints": {
         "ic_channel_text": -14216914,
@@ -96,7 +96,8 @@
         "ic_settings_grey_a60_24dp": -16777216,
         "ic_status_online_16dp": -1388934063,
         "ic_spotify_green_24dp": -280022686,
-        "ic_direct_message_header": -14216914
+        "ic_direct_message_header": -14216914,
+        "drawable_overlay_channels_selected_light": 1921745345
     },
     "raws": {}
 }
