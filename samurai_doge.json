@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.3.5",
+        "version": "0.3.6",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json",
         "license": "EPL-2.0"
@@ -76,7 +76,8 @@
         "drawable_button_grey": -433510620,
         "drawable_open_folder_dark": 2115445530,
         "drawable_bg_reaction_dark": 2052353138,
-        "drawable_overlay_channels_selected_dark": 1468367712
+        "drawable_overlay_channels_selected_dark": 1468367712,
+        "ic_direct_message_header": -420880691
     },
     "raws": {}
 }
