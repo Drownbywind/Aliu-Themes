@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.2.0",
+        "version": "0.2.1",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -70,6 +70,7 @@
         "ic_channel_announcements_locked": "system_neutral2_500",
         "ic_channel_announcements_16dp": "system_neutral2_500",
         "ic_channel_announcements": "system_neutral2_500",
+        "ic_direct_message_header": "system_neutral2_500",
         "ic_thread_grey_18dp": "system_neutral2_500",
         //some stuff not done
         "ic_sidebar_pins_on_dark_24dp": "system_accent2_300",
