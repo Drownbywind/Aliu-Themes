@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.2.3",
+        "version": "0.2.4",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -47,6 +47,7 @@
         "white_500": "system_accent1_50",
         "white_800": "system_neutral1_800",
         "primary_light_200": -1,
+        "primary_light_500_alpha_20": "system_accent1_100",
         "status_grey_100": "system_accent1_50",
         "status_grey_130": "system_accent1_50",
         "status_grey_200": "system_accent1_50",
@@ -111,11 +112,15 @@
         "drawable_bg_reaction_light": "system_accent1_100",
         "drawable_bg_highlight": "system_accent2_300",
         "drawable_overlay_channels_selected_dark": "system_accent2_700",
+        "drawable_overlay_channels_dark": "system_accent1_700",
+        "drawable_overlay_channels_light": "system_accent1_100",
         "drawable_overlay_channels_selected_light": "system_accent1_100",
         "drawable_progress_gradient_dark": "system_accent1_300",
         "drawable_progress_gradient_light": "system_accent1_500",
         "drawable_progress_green": "system_accent3_500",
         "ic_spotify_green_24dp": "system_accent1_500",
+        "ic_account_github_white_24dp": "system_accent2_100",
+        "ic_account_github_light_24dp": "system_accent1_800",
         "img_logo_wordmark": "system_accent2_800"
     },
     "raws": {}
