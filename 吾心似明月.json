@@ -2,15 +2,16 @@
     "manifest": {
         "name": "吾心似明月",
         "author": "wind",
-        "version": "0.1.1",
-        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.json"
+        "version": "0.1.2",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.json",
+        "license": "EPL-2.0"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.gif"
     },
     "fonts": {},
     "simple_colors": {
-        "statusbar": 1461001249,
+        "statusbar": 1544229397,
         "blocked_bg": -1525934565
     },
     "colors": {
@@ -21,7 +22,7 @@
         "primary_dark_600": 621549340,
         "primary_dark_630": 622273063,
         "primary_dark_660": 1294485591,
-        "primary_dark_700": 321407063,
+        "primary_dark_700": 319492629,
         "primary_dark_800": 1678249489,
         "primary_dark_900": -16777216,
         "uikit_btn_compound_color_selector_light": -13415586,
