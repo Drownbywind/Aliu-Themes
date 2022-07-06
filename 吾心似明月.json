@@ -2,7 +2,7 @@
     "manifest": {
         "name": "吾心似明月",
         "author": "wind",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.json"
     },
     "background": {
@@ -39,8 +39,8 @@
         "white_500": -2231553,
         "link": -2428769,
         "link_500": -2428769,
-        "brand_500_alpha_20": -1156043980,
-        "brand_new_260": -458769447,
+        "brand_500_alpha_20": -871483317,
+        "brand_new_260": -5520669,
         "status_yellow_500_alpha_10": -1959572910,
         "status_yellow_500": -228751723,
         "primary_630": 2114259727,
