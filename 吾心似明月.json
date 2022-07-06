@@ -2,11 +2,11 @@
     "manifest": {
         "name": "吾心似明月",
         "author": "wind",
-        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/%E5%90%BE%E5%BF%83%E4%BC%BC%E6%98%8E%E6%9C%88.json",
-        "version": "0.0.1"
+        "version": "0.0.2",
+        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.json"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/%E5%90%BE%E5%BF%83%E4%BC%BC%E6%98%8E%E6%9C%88.gif"
+        "url": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.gif"
     },
     "fonts": {},
     "simple_colors": {
