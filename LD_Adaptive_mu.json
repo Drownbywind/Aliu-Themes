@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.2.11",
+        "version": "0.2.12",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -11,7 +11,7 @@
         "uikit_btn_compound_color_selector_dark": "system_accent1_200",
         "uikit_btn_bg_color_selector_secondary_light": "system_accent1_700",
         "uikit_settings_item_text_color_dark": "system_accent2_200",
-        "uikit_settings_item_text_color_light": "system_accent1_700",
+        "uikit_settings_item_text_color_light": "system_accent2_700",
         "brand": "system_accent1_300",
         "brand_500_alpha_20": "system_accent1_700",
         "brand_new_160": "system_accent1_200",
@@ -38,7 +38,7 @@
         "primary_100": "system_accent2_100",
         "primary_100_alpha_80": "system_accent2_100",
         "primary_700": "system_neutral1_900",
-        "primary_500_alpha_20": "system_accent2_800",
+        "primary_500_alpha_20": 419430400,
         "primary_500_alpha_60": "system_accent2_600",
         "primary_900_alpha_80": "system_neutral2_900",
         "primary_dark_material_dark": "system_neutral2_800",
