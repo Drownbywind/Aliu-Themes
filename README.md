@@ -16,4 +16,6 @@ A list of themes made for Aliucord Android Discord client from wind
 
 - Samurai doge ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/samurai_doge_preview.png)
 
+- 吾心似明月 ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/吾心似明月_preview.jpg)
+
 ### You can contact me at kozuso@yeah.net -Wind
