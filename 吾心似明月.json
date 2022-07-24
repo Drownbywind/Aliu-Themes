@@ -2,7 +2,7 @@
     "manifest": {
         "name": "吾心似明月",
         "author": "wind",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/吾心似明月.json",
         "license": "EPL-2.0"
     },
@@ -71,6 +71,7 @@
         "ic_sidebar_notifications_on_dark_24dp": -423108622,
         "ic_arrow_right_24dp": -423108622,
         "ic_visibility_white_24dp": -423108622,
+        "ic_person_add_white_a60_24dp": -423108622,
         "ic_content_copy_white_a60_24dp": -423108622,
         "ic_thread_white_24dp": -423108622,
         "ic_thread_grey_18dp": -423108622,
@@ -84,7 +85,8 @@
         "ic_settings_white_a60_24dp": -423108622,
         "drawable_open_folder_dark": -1757719463,
         "drawable_bg_reaction_dark": -1758249140,
-        "drawable_overlay_channels_selected_dark": -1120185255
+        "drawable_overlay_channels_selected_dark": -1120185255,
+        "ic_spotify_green_24dp": -10453880
     },
     "raws": {}
 }
