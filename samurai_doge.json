@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "wind",
-        "version": "0.3.6",
+        "version": "0.3.7",
         "name": "Samurai Doge",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json",
         "license": "EPL-2.0"
@@ -11,7 +11,8 @@
     },
     "fonts": {},
     "simple_colors": {
-        "blocked_bg": 2132417050
+        "blocked_bg": 2132417050,
+        "statusbar": -1961288425
     },
     "colors": {
         "primary_dark_600": 705828627,
