@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.3.0",
+        "version": "0.3.1",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -38,6 +38,8 @@
         "primary_dark_900": "system_neutral2_900",
         "primary_100": "system_accent2_100",
         "primary_100_alpha_80": "system_accent2_100",
+        "primary_300": "system_neutral2_900",
+        "primary_300_alpha_60": "system_neutral2_500",
         "primary_500_alpha_20": 419430400,
         "primary_500_alpha_60": "system_accent2_600",
         "primary_630": "system_neutral2_900",
@@ -60,6 +62,7 @@
         "status_grey_900": "system_accent1_900",
         "status_green_500_alpha_20": "system_accent2_700",
         "ripple_material_light": "system_accent2_500",
+        "black_alpha_10": "system_neutral2_700",
         "grey_1": "system_accent1_700"
     },
     "drawable_tints": {
