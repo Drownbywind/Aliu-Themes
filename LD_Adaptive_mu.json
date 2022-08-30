@@ -1,13 +1,13 @@
 {
     "manifest": {
-        "version": "0.3.1",
+        "version": "0.3.2",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
         "license": "EPL-2.0"
     },
     "colors": {
-        "uikit_btn_compound_color_selector_light": "system_accent3_700",
+        "uikit_btn_compound_color_selector_light": "system_accent1_700",
         "uikit_btn_compound_color_selector_dark": "system_accent1_200",
         "uikit_btn_bg_color_selector_secondary_light": "system_accent1_700",
         "uikit_settings_item_text_color_dark": "system_accent2_200",
@@ -19,10 +19,10 @@
         "brand_new_260": "system_accent1_200",
         "brand_new_500": "system_accent1_500",
         "brand_new_530": "system_accent1_700",
-        "link": "system_accent3_300",
-        "link_light": "system_accent3_400",
-        "link_500": "system_accent3_300",
-        "link_light_500": "system_accent3_400",
+        "link": "system_accent3_200",
+        "link_light": "system_accent3_600",
+        "link_500": "system_accent3_200",
+        "link_light_500": "system_accent3_600",
         "primary_dark_100": "system_accent3_100",
         "primary_dark_200": "system_neutral1_10",
         "primary_dark_300": "system_accent2_300",
@@ -32,7 +32,7 @@
         "primary_dark_500": "system_neutral1_900",
         "primary_dark_600": "system_neutral2_800",
         "primary_dark_630": "system_neutral2_800",
-        "primary_dark_660": "system_accent2_800",
+        "primary_dark_660": "system_neutral2_900",
         "primary_dark_700": "system_neutral2_900",
         "primary_dark_800": "system_neutral2_800",
         "primary_dark_900": "system_neutral2_900",
@@ -66,8 +66,8 @@
         "grey_1": "system_accent1_700"
     },
     "drawable_tints": {
-    	"ic_arrow_right_24dp": "system_neutral2_500",
-    	"ic_arrow_downward_white_16dp": "system_accent2_50",
+        "ic_arrow_right_24dp": "system_neutral2_500",
+        "ic_arrow_downward_white_16dp": "system_accent2_50",
         "ic_arrow_upward_white_16dp": "system_accent2_50",
         "ic_navigate_next_white_a60_24dp": "system_accent1_100",
         "ic_navigate_next_grey_a60_24dp": "system_accent2_800",
