@@ -67,8 +67,8 @@
     },
     "drawable_tints": {
     	"ic_arrow_right_24dp": "system_neutral2_500",
-        "ic_arrow_downward_white_16dp": "system_accent2_50",
-        "ic_arrow_upward_white_16dp": "system_accent2_50",
+    	"ic_arrow_downward_white_16dp": "system_accent2_50",
+    	"ic_arrow_upward_white_16dp": "system_accent2_50",
         "ic_navigate_next_white_a60_24dp": "system_accent1_100",
         "ic_navigate_next_grey_a60_24dp": "system_accent2_800",
         "ic_channel_text": "system_neutral2_500",
