@@ -45,6 +45,7 @@
         "primary_630": "system_neutral2_900",
         "primary_700": "system_neutral1_900",
         "primary_900_alpha_80": "system_neutral2_900",
+        "dim_foreground_material_light": "system_neutral2_900",
         "primary_dark_material_dark": "system_neutral2_800",
         "white": "system_neutral1_100",
         "white_500": "system_accent2_50",
@@ -66,9 +67,9 @@
         "grey_1": "system_accent1_700"
     },
     "drawable_tints": {
-    	"ic_arrow_right_24dp": "system_neutral2_500",
-    	"ic_arrow_downward_white_16dp": "system_accent2_50",
-    	"ic_arrow_upward_white_16dp": "system_accent2_50",
+        "ic_arrow_right_24dp": "system_neutral2_500",
+        "ic_arrow_downward_white_16dp": "system_accent2_50",
+        "ic_arrow_upward_white_16dp": "system_accent2_50",
         "ic_navigate_next_white_a60_24dp": "system_accent1_100",
         "ic_navigate_next_grey_a60_24dp": "system_accent2_800",
         "ic_channel_text": "system_neutral2_500",
@@ -143,5 +144,9 @@
         "ic_account_github_white_24dp": "system_accent2_100",
         "ic_account_github_light_24dp": "system_accent1_800",
         "img_logo_wordmark": "system_accent2_800"
-    }
+    },
+    "background": {},
+    "fonts": {},
+    "raws": {},
+    "simple_colors": {}
 }
