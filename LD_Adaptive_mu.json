@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.3.3",
+        "version": "0.3.4",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -40,6 +40,7 @@
         "primary_100_alpha_80": "system_accent2_100",
         "primary_300": "system_neutral2_900",
         "primary_300_alpha_60": "system_neutral2_500",
+        "primary_500": "system_neutral2_500",
         "primary_500_alpha_20": 419430400,
         "primary_500_alpha_60": "system_accent2_600",
         "primary_630": "system_neutral2_900",
