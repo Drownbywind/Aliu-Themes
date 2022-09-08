@@ -1,19 +1,23 @@
 {
     "manifest": {
-        "version": "0.0.1",
+        "version": "0.1.0",
         "author": "wind",
-        "name": "Amoled (material you)",
+        "name": "Wind's Amoled (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/wind_amoled_mu.json",
         "license": "EPL-2.0"
     },
+    "simple_colors": {
+        "blocked_bg": "system_neutral2_900",
+        "statusbar": "system_neutral2_1000"
+    },
     "colors": {
         "uikit_btn_compound_color_selector_light": "system_accent2_800",
-        "uikit_btn_compound_color_selector_dark": "system_accent3_200",
+        "uikit_btn_compound_color_selector_dark": "system_accent3_400",
         "uikit_btn_bg_color_selector_green": "system_accent2_800",
         "uikit_btn_bg_color_selector_red": "system_accent3_600",
         "uikit_settings_item_text_color_dark": "system_accent2_100",
         "uikit_settings_item_text_color_light": "system_accent2_800",
-        "brand": "system_accent1_300",
+        "brand": "system_accent1_500",
         "brand_500_alpha_20": "system_accent3_900",
         "brand_new": "system_accent1_300",
         "brand_new_160": "system_accent1_200",
@@ -42,7 +46,7 @@
         "primary_500": "system_neutral2_500",
         "primary_500_alpha_20": 419430400,
         "primary_500_alpha_60": "system_accent2_800",
-        "primary_630": -15921907,
+        "primary_630": 1043674421,
         "primary_660": -15921907,
         "primary_700": -15856114,
         "primary_900_alpha_80": "system_neutral2_900",
