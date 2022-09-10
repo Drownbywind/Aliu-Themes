@@ -1,22 +1,22 @@
 {
     "manifest": {
-        "version": "0.1.0",
+        "version": "0.1.1",
         "author": "wind",
         "name": "Wind's Amoled (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/wind_amoled_mu.json",
         "license": "EPL-2.0"
     },
     "simple_colors": {
-        "blocked_bg": "system_neutral2_900",
+        "blocked_bg": -15856114,
         "statusbar": "system_neutral2_1000"
     },
     "colors": {
         "uikit_btn_compound_color_selector_light": "system_accent2_800",
         "uikit_btn_compound_color_selector_dark": "system_accent3_400",
-        "uikit_btn_bg_color_selector_green": "system_accent2_800",
-        "uikit_btn_bg_color_selector_red": "system_accent3_600",
         "uikit_settings_item_text_color_dark": "system_accent2_100",
         "uikit_settings_item_text_color_light": "system_accent2_800",
+        "uikit_btn_bg_color_selector_green": "system_accent2_700",
+        "uikit_btn_bg_color_selector_red": "system_accent3_500",
         "brand": "system_accent1_500",
         "brand_500_alpha_20": "system_accent3_900",
         "brand_new": "system_accent1_300",
@@ -49,12 +49,12 @@
         "primary_630": 1043674421,
         "primary_660": -15921907,
         "primary_700": -15856114,
-        "primary_900_alpha_80": "system_neutral2_900",
+        "primary_900_alpha_80": "system_neutral2_1000",
         "dim_foreground_material_light": "system_neutral2_1000",
         "primary_dark_material_dark": "system_neutral2_1000",
         "white": "system_accent2_50",
         "white_500": "system_accent2_50",
-        "white_800": "system_neutral2_900",
+        "white_800": "system_neutral2_1000",
         "status_yellow_500_alpha_10": "system_neutral2_900",
         "status_yellow_500": "system_accent1_600",
         "status_green_500_alpha_20": "system_accent2_800",
