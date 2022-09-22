@@ -2,7 +2,7 @@
     "manifest": {
         "name": "ver_dark_pastel_purple",
         "author": "wind",
-        "version": "0.2.2",
+        "version": "0.2.3",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/ver_dark_discord_pastel_purple.json",
         "license": "EPL-2.0 License"
     },
@@ -42,9 +42,10 @@
         "brand_500_alpha_20": -4742693,
         "brand_new_260": -9346931,
         "primary_dark_material_dark": -9671796,
-        "link": -10666859,
-        "link_500": -10666859,
-        "ripple_material_light": 2109254619
+        "link": -9426759,
+        "link_500": -9426759,
+        "ripple_material_light": 2109254619,
+        "primary_800_alpha_50": 1710288124
     },
     "drawable_tints": {
         "ic_channel_text": -298701752,
