@@ -2,7 +2,7 @@
     "manifest": {
         "name": "ver_dark_pastel_purple",
         "author": "wind",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/ver_dark_discord_pastel_purple.json",
         "license": "EPL-2.0 License"
     },
@@ -25,12 +25,12 @@
         "primary_dark_700": -2897934,
         "primary_dark_660": -473252373,
         "uikit_btn_compound_color_selector_light": -6253628,
-        "brand": -6189121,
+        "brand": -6914625,
         "brand_new_500": -6189121,
         "uikit_btn_compound_color_selector_dark": -263180675,
         "uikit_settings_item_text_color_dark": -299556565,
         "uikit_settings_item_text_color_light": -6253628,
-        "primary_700": -2897934,
+        "primary_700": -3292944,
         "white_800": -423711256,
         "white_500": -13882831,
         "white": -854273,
@@ -41,7 +41,10 @@
         "primary_300_alpha_60": -298701752,
         "brand_500_alpha_20": -4742693,
         "brand_new_260": -9346931,
-        "primary_dark_material_dark": -9671796
+        "primary_dark_material_dark": -9671796,
+        "link": -10666859,
+        "link_500": -10666859,
+        "ripple_material_light": 2109254619
     },
     "drawable_tints": {
         "ic_channel_text": -298701752,
