@@ -2,14 +2,16 @@
     "manifest": {
         "name": "ver_dark_pastel_purple",
         "author": "wind",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/ver_dark_discord_pastel_purple.json",
         "license": "EPL-2.0 License"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
-        "active_channel": 1922793921
+        "active_channel": -4411172,
+        "statusbar": -15856113,
+        "blocked_bg": -3621910
     },
     "colors": {
         "primary_dark_400": -292781901,
@@ -17,25 +19,29 @@
         "primary_dark_300": -936963794,
         "primary_dark_360": -1657919919,
         "primary_dark_200": -936963794,
-        "primary_dark_630": -2897934,
+        "primary_dark_630": -3161106,
         "primary_dark_600": -2897934,
-        "primary_dark_800": -2897934,
+        "primary_dark_800": -4411425,
         "primary_dark_700": -2897934,
-        "primary_dark_660": 1992339689,
-        "uikit_btn_compound_color_selector_light": -257258525,
-        "brand": -257124653,
-        "brand_new_500": -256993581,
+        "primary_dark_660": -473252373,
+        "uikit_btn_compound_color_selector_light": -6253628,
+        "brand": -6189121,
+        "brand_new_500": -6189121,
         "uikit_btn_compound_color_selector_dark": -263180675,
         "uikit_settings_item_text_color_dark": -299556565,
-        "uikit_settings_item_text_color_light": -441476647,
+        "uikit_settings_item_text_color_light": -6253628,
         "primary_700": -2897934,
         "white_800": -423711256,
-        "white_500": -12765373,
+        "white_500": -13882831,
         "white": -854273,
-        "dim_foreground_material_light": -422328334,
+        "dim_foreground_material_light": -3292693,
         "primary_630": 1118342346,
-        "primary_dark_material_dark": -422328334,
-        "primary_500_alpha_20": 1759960575
+        "primary_500_alpha_20": 1759960575,
+        "primary_dark_330": -1657919919,
+        "primary_300_alpha_60": -298701752,
+        "brand_500_alpha_20": -4742693,
+        "brand_new_260": -9346931,
+        "primary_dark_material_dark": -9671796
     },
     "drawable_tints": {
         "ic_channel_text": -298701752,
@@ -66,7 +72,7 @@
         "ic_notifications_settings_white_a60_24dp": -298701752,
         "img_logo_wordmark": -298701752,
         "drawable_button_red": -4225327,
-        "drawable_button_grey": -5663507,
+        "drawable_button_grey": -5265966,
         "ic_settings_white_a60_24dp": -298701752,
         "drawable_open_folder_dark": 1301710291
     },
