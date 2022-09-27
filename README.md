@@ -6,6 +6,8 @@ A list of themes made for Aliucord Android Discord client from wind
 
 ### Material you themes
 
+- Wind's Amoled mu ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/wind_amoled_mu_preview.jpg)
+
 - L&D adaptive mu ![preview](https://raw.githubusercontent.com/Drownbywind/Aliu-Themes/main/LD_Adaptive_mu_preview.jpg)
 
 ### Light Pastel Theme
