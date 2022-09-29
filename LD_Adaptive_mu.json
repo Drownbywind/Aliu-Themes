@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.3.5",
+        "version": "0.3.7",
         "author": "wind",
         "name": "Light & Dark adaptive (material you)",
         "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/LD_Adaptive_mu.json",
@@ -15,10 +15,10 @@
         "brand": "system_accent1_300",
         "brand_500_alpha_20": "system_accent2_800",
         "brand_new": "system_accent1_300",
-        "brand_new_160": "system_accent1_200",
+        "brand_new_160": "system_accent1_100",
         "brand_new_260": "system_accent1_200",
         "brand_new_500": "system_accent1_500",
-        "brand_new_530": "system_accent1_700",
+        "brand_new_530": "system_accent1_500",
         "link": "system_accent3_200",
         "link_light": "system_accent3_600",
         "link_500": "system_accent3_200",
@@ -38,11 +38,11 @@
         "primary_dark_900": "system_neutral2_900",
         "primary_100": "system_accent2_100",
         "primary_100_alpha_80": "system_accent2_100",
-        "primary_300": "system_neutral2_900",
+        "primary_300": "system_accent2_800",
         "primary_300_alpha_60": "system_neutral2_500",
         "primary_500": "system_neutral2_500",
         "primary_500_alpha_20": 419430400,
-        "primary_500_alpha_60": "system_accent2_600",
+        "primary_500_alpha_60": "system_neutral2_700",
         "primary_630": "system_neutral2_900",
         "primary_700": "system_neutral1_900",
         "primary_900_alpha_80": "system_neutral2_900",
@@ -68,7 +68,7 @@
         "grey_1": "system_accent1_700"
     },
     "drawable_tints": {
-    	"ic_arrow_right_24dp": "system_neutral2_500",
+        "ic_arrow_right_24dp": "system_neutral2_500",
         "ic_arrow_downward_white_16dp": "system_accent2_50",
         "ic_arrow_upward_white_16dp": "system_accent2_50",
         "ic_navigate_next_white_a60_24dp": "system_accent1_100",
