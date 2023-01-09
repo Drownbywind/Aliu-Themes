@@ -1,6 +1,6 @@
-# Aliucord themes
+# Aliucord kotlin themes
 
-A list of themes made for Aliucord Android Discord client from wind
+A list of legacy themes made for Aliucord Android Discord kotlin client by wind
 
 ## No Transperancy Themes
 
